@@ -14,4 +14,4 @@ For individual assets you will see most are saved in a variety of formats. "AI" 
 
 Please ask in the Lodge Slack channel or email a member of the Lodge Executive Council if you have questions.
 
-Primary assets created by David Seal. Additional assets and designs created by Donathan Linebrink, John Lindegren, and John Athayde.
+Primary assets created by David Seal. Additional assets and designs created by Donathan Linebrink, John Lindegren, and John Athayde. Rebrand committee led by Eli Hattersley.
