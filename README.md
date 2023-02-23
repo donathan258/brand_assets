@@ -1,6 +1,6 @@
 # Sheandoah Lodge Brand Assets
 
-This repository hosts the brand guidelines and individual assets for the 2020 rebrand of Shenandoah Lodge 258, Order of teh Arrow, BSA.
+This repository hosts the brand guidelines and individual assets for the 2020 rebrand of Shenandoah Lodge 258, Order of the Arrow, BSA.
 
 ## File Conventions
 
